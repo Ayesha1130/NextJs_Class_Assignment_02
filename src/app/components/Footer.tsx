@@ -41,6 +41,7 @@ const Footer = () => {
           <li>Login / Register Wishlist Cart Checkout Orders Tracking Shop</li>
         </ul>
       </div>
+      
     </div>
   );
 };
